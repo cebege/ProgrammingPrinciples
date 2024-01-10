@@ -1,0 +1,8 @@
+﻿  Level Editor.cpp
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 8 Classes and Objects\Practice 4\Level Editor\Level Editor.cpp(10,33): warning C4309: 'initializing': truncation of constant value
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 8 Classes and Objects\Practice 4\Level Editor\Level Editor.cpp(11,32): warning C4309: 'initializing': truncation of constant value
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 8 Classes and Objects\Practice 4\Level Editor\Level Editor.cpp(12,36): warning C4309: 'initializing': truncation of constant value
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 8 Classes and Objects\Practice 4\Level Editor\Level Editor.cpp(13,35): warning C4309: 'initializing': truncation of constant value
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 8 Classes and Objects\Practice 4\Level Editor\Level Editor.cpp(14,35): warning C4309: 'initializing': truncation of constant value
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 8 Classes and Objects\Practice 4\Level Editor\Level Editor.cpp(15,33): warning C4309: 'initializing': truncation of constant value
+  Level Editor.vcxproj -> C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 8 Classes and Objects\Practice 4\Debug\Level Editor.exe

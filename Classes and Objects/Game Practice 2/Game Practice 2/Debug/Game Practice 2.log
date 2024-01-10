@@ -1,0 +1,8 @@
+﻿  Editor.cpp
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 8 Classes and Objects\Game Practice 2\Game Practice 2\Editor.cpp(26,34): warning C4309: 'initializing': truncation of constant value
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 8 Classes and Objects\Game Practice 2\Game Practice 2\Editor.cpp(27,33): warning C4309: 'initializing': truncation of constant value
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 8 Classes and Objects\Game Practice 2\Game Practice 2\Editor.cpp(28,37): warning C4309: 'initializing': truncation of constant value
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 8 Classes and Objects\Game Practice 2\Game Practice 2\Editor.cpp(29,36): warning C4309: 'initializing': truncation of constant value
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 8 Classes and Objects\Game Practice 2\Game Practice 2\Editor.cpp(30,36): warning C4309: 'initializing': truncation of constant value
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 8 Classes and Objects\Game Practice 2\Game Practice 2\Editor.cpp(31,34): warning C4309: 'initializing': truncation of constant value
+  Game Practice 2.vcxproj -> C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 8 Classes and Objects\Game Practice 2\Debug\Game Practice 2.exe

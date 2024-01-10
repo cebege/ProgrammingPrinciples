@@ -1,0 +1,19 @@
+﻿  Point.cpp
+  Player.cpp
+  Level.cpp
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 8 Classes and Objects\Practice 3\Practice 3\Level.cpp(13,29): error C2572: 'Level::Level': redefinition of default argument: parameter 1
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 8 Classes and Objects\Practice 3\Practice 3\Level.h(13): message : see declaration of 'Level::Level'
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 8 Classes and Objects\Practice 3\Practice 3\Level.cpp(13,50): error C2572: 'Level::Level': redefinition of default argument: parameter 2
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 8 Classes and Objects\Practice 3\Practice 3\Level.h(13): message : see declaration of 'Level::Level'
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 8 Classes and Objects\Practice 3\Practice 3\Level.cpp(13,66): error C2572: 'Level::Level': redefinition of default argument: parameter 3
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 8 Classes and Objects\Practice 3\Practice 3\Level.h(13): message : see declaration of 'Level::Level'
+  Game.cpp
+  Main.cpp
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 8 Classes and Objects\Practice 3\Practice 3\Main.cpp(12,13): error C2039: 'Load': is not a member of 'Game'
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 8 Classes and Objects\Practice 3\Practice 3\Game.h(4): message : see declaration of 'Game'
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 8 Classes and Objects\Practice 3\Practice 3\Main.cpp(16,11): error C2039: 'Run': is not a member of 'Game'
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 8 Classes and Objects\Practice 3\Practice 3\Game.h(4): message : see declaration of 'Game'
+  Generating Code...
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 8 Classes and Objects\Practice 3\Practice 3\Player.h(22): error C4716: 'Player::pickUpKey': must return a value
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 8 Classes and Objects\Practice 3\Practice 3\Player.h(20): error C4716: 'Player::playerHasKey': must return a value
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 8 Classes and Objects\Practice 3\Practice 3\Player.h(21): error C4716: 'Player::useKey': must return a value

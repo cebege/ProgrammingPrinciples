@@ -1,0 +1,21 @@
+﻿  PlaceableActor.cpp
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 9 Inheritance and Polymorphism\Game Practice 3\Game Practice 3\Game Practice 3\PlaceableActor.cpp(3,59): error C2572: 'PlaceableActor::PlaceableActor': redefinition of default argument: parameter 1
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 9 Inheritance and Polymorphism\Game Practice 3\Game Practice 3\Game Practice 3\PlaceableActor.h(17): message : see declaration of 'PlaceableActor::PlaceableActor'
+  Door.cpp
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 9 Inheritance and Polymorphism\Game Practice 3\Game Practice 3\Game Practice 3\Door.h(19,1): error C2143: syntax error: missing ';' before '}'
+  Enemy.cpp
+  Money.cpp
+  Player.cpp
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 9 Inheritance and Polymorphism\Game Practice 3\Game Practice 3\Game Practice 3\Player.cpp(9,15): error C2440: 'initializing': cannot convert from 'bool' to 'Key *'
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 9 Inheritance and Polymorphism\Game Practice 3\Game Practice 3\Game Practice 3\Player.cpp(9,15): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 9 Inheritance and Polymorphism\Game Practice 3\Game Practice 3\Game Practice 3\Player.cpp(12,1): error C2439: 'Player::mCurrentKey': member could not be initialized
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 9 Inheritance and Polymorphism\Game Practice 3\Game Practice 3\Game Practice 3\Player.h(26): message : see declaration of 'Player::mCurrentKey'
+  Level.cpp
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 9 Inheritance and Polymorphism\Game Practice 3\Game Practice 3\Game Practice 3\Door.h(19,1): error C2143: syntax error: missing ';' before '}'
+  Game.cpp
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 9 Inheritance and Polymorphism\Game Practice 3\Game Practice 3\Game Practice 3\Door.h(19,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 9 Inheritance and Polymorphism\Game Practice 3\Game Practice 3\Game Practice 3\Game.cpp(31,81): error C2143: syntax error: missing ')' before ';'
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 9 Inheritance and Polymorphism\Game Practice 3\Game Practice 3\Game Practice 3\Game.cpp(97,1): error C2084: function 'bool Game::handleCollision(int,int)' already has a body
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 9 Inheritance and Polymorphism\Game Practice 3\Game Practice 3\Game Practice 3\Game.cpp(75): message : see previous definition of 'handleCollision'
+  Source.cpp
+  Generating Code...

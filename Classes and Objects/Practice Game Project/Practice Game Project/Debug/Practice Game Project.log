@@ -1,0 +1,8 @@
+﻿  Level Editor.cpp
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 8 Classes and Objects\Practice Game Project\Practice Game Project\Level Editor.cpp(24,33): warning C4309: 'initializing': truncation of constant value
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 8 Classes and Objects\Practice Game Project\Practice Game Project\Level Editor.cpp(25,32): warning C4309: 'initializing': truncation of constant value
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 8 Classes and Objects\Practice Game Project\Practice Game Project\Level Editor.cpp(26,36): warning C4309: 'initializing': truncation of constant value
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 8 Classes and Objects\Practice Game Project\Practice Game Project\Level Editor.cpp(27,35): warning C4309: 'initializing': truncation of constant value
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 8 Classes and Objects\Practice Game Project\Practice Game Project\Level Editor.cpp(28,35): warning C4309: 'initializing': truncation of constant value
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 8 Classes and Objects\Practice Game Project\Practice Game Project\Level Editor.cpp(29,33): warning C4309: 'initializing': truncation of constant value
+  Practice Game Project.vcxproj -> C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 8 Classes and Objects\Practice Game Project\Debug\Practice Game Project.exe

@@ -1,0 +1,8 @@
+﻿  Level Editor.cpp
+C:\Users\conor\OneDrive\Documents\Game Programming\Course Source Code\Week 10 - Advanced Topics\Game - Inheritance and Polymorphism\Game\Game\Level Editor.cpp(10,33): warning C4309: 'initializing': truncation of constant value
+C:\Users\conor\OneDrive\Documents\Game Programming\Course Source Code\Week 10 - Advanced Topics\Game - Inheritance and Polymorphism\Game\Game\Level Editor.cpp(11,32): warning C4309: 'initializing': truncation of constant value
+C:\Users\conor\OneDrive\Documents\Game Programming\Course Source Code\Week 10 - Advanced Topics\Game - Inheritance and Polymorphism\Game\Game\Level Editor.cpp(12,36): warning C4309: 'initializing': truncation of constant value
+C:\Users\conor\OneDrive\Documents\Game Programming\Course Source Code\Week 10 - Advanced Topics\Game - Inheritance and Polymorphism\Game\Game\Level Editor.cpp(13,35): warning C4309: 'initializing': truncation of constant value
+C:\Users\conor\OneDrive\Documents\Game Programming\Course Source Code\Week 10 - Advanced Topics\Game - Inheritance and Polymorphism\Game\Game\Level Editor.cpp(14,35): warning C4309: 'initializing': truncation of constant value
+C:\Users\conor\OneDrive\Documents\Game Programming\Course Source Code\Week 10 - Advanced Topics\Game - Inheritance and Polymorphism\Game\Game\Level Editor.cpp(15,33): warning C4309: 'initializing': truncation of constant value
+  Game.vcxproj -> C:\Users\conor\OneDrive\Documents\Game Programming\Course Source Code\Week 10 - Advanced Topics\Game - Inheritance and Polymorphism\Game\Debug\Level Editor.exe

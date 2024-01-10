@@ -1,0 +1,3 @@
+﻿  Game Arrays Practice.cpp
+Game Arrays Practice.obj : error LNK2005: _main already defined in Game Arrays.obj
+C:\Users\conor\OneDrive\Documents\CG Spectrum\Course Source Code\Week 7 Pointers and References\Pointers and References\Debug\Pointers and References.exe : fatal error LNK1169: one or more multiply defined symbols found
